@@ -28,7 +28,7 @@ function App() {
       <Navigation activeSection={activeSection} setActiveSection={setActiveSection} />
       {renderSection()}
       <footer className="footer">
-        <p>© 2024 Portfolio Showcase - Built with React & Vite</p>
+        <p>© 2024 Portfolio Showcase - Built with React & Vite | Deployment Test ✅</p>
       </footer>
     </div>
   )
